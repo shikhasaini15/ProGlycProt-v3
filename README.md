@@ -15,3 +15,6 @@
 - Phylum-wise distribution and domain-level classification (archaea and bacteria)  
 - User-friendly web interface and search functionalities: [ProGlycProt](https://www.proglycprot.org)  
 - Updated bibliographic references and hierarchical organism classification  
+
+### Citation:
+Janhvi S., Singh V., Sharma T., Saini S., Rao A. (2023) ProGlycProt v3.0: A comprehensive prokaryotic glycoprotein database. Glycobiology. [https://www.proglycprot.org](https://doi.org/10.1093/glycob/cwad103)
